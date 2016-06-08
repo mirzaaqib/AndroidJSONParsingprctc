@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "A:\\AndroidJSONParsing2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "A:\\AndroidJSONParsing2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "A:\\AndroidJSONParsing2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\electrician.jpeg",
+        "source": "A:\\AndroidJSONParsing2\\app\\src\\main\\res\\drawable-hdpi\\electrician.jpeg"
+    },
+    {
+        "merged": "A:\\AndroidJSONParsing2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mpss.jpeg",
+        "source": "A:\\AndroidJSONParsing2\\app\\src\\main\\res\\drawable-hdpi\\mpss.jpeg"
+    },
+    {
+        "merged": "A:\\AndroidJSONParsing2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lgss.jpeg",
+        "source": "A:\\AndroidJSONParsing2\\app\\src\\main\\res\\drawable-hdpi\\lgss.jpeg"
+    },
+    {
+        "merged": "A:\\AndroidJSONParsing2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\trr.jpeg",
+        "source": "A:\\AndroidJSONParsing2\\app\\src\\main\\res\\drawable-hdpi\\trr.jpeg"
+    },
+    {
+        "merged": "A:\\AndroidJSONParsing2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ser.jpeg",
+        "source": "A:\\AndroidJSONParsing2\\app\\src\\main\\res\\drawable-hdpi\\ser.jpeg"
+    },
+    {
+        "merged": "A:\\AndroidJSONParsing2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\women.jpeg",
+        "source": "A:\\AndroidJSONParsing2\\app\\src\\main\\res\\drawable-hdpi\\women.jpeg"
+    },
+    {
+        "merged": "A:\\AndroidJSONParsing2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ssflowers.jpeg",
+        "source": "A:\\AndroidJSONParsing2\\app\\src\\main\\res\\drawable-hdpi\\ssflowers.jpeg"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidJSONParsing2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\MyApplication\\AndroidJSONParsing2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "A:\\AndroidJSONParsing2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nnnlaundarys.jpeg",
+        "source": "A:\\AndroidJSONParsing2\\app\\src\\main\\res\\drawable-hdpi\\nnnlaundarys.jpeg"
+    }
+]

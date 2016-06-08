@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#E1F5FE"
+    android:orientation="vertical">
+	<!-- Main ListView 
+		 Always give id value as list(@android:id/list)
+	-->
+    <Button
+    android:layout_width="115dp"
+    android:layout_height="110dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="30dp"
+    android:id="@+id/h"
+    android:background="@drawable/electrician"
+    android:onClick="onClick"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Electrician"
+        android:layout_marginRight="13dp"
+        android:textSize="18dp"
+        android:textColor="#000000"
+        android:id="@+id/textView1"
+        android:layout_below="@+id/h"
+        android:layout_alignRight="@+id/h" />
+    <Button
+        android:layout_width="115dp"
+        android:layout_height="112dp"
+        android:id="@+id/la"
+        android:background="@drawable/nnnlaundarys"
+        android:onClick="laundryClick"
+        android:layout_marginRight="32dp"
+        android:layout_marginBottom="8dp"
+        android:layout_alignTop="@+id/h"
+        android:layout_alignParentRight="true"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="22dp"
+        android:text="Laundry"
+        android:textSize="18dp"
+        android:textColor="#000000"
+        android:id="@+id/textView"
+        android:layout_marginTop="-14dp"
+        android:layout_below="@+id/la"
+        android:layout_alignRight="@+id/la" />
+
+    <Button
+        android:layout_width="128dp"
+        android:layout_height="115dp"
+        android:id="@+id/ff"
+        android:background="@drawable/ssflowers"
+        android:onClick="flowerClick"
+        android:layout_below="@+id/textView1"
+        android:layout_alignLeft="@+id/h"
+        android:layout_marginTop="42dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Flower"
+        android:textSize="18dp"
+        android:layout_marginLeft="14dp"
+        android:textColor="#000000"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="-2dp"
+        android:id="@+id/textView22"
+        android:layout_below="@+id/ff"
+        android:layout_alignLeft="@+id/textView1" />
+
+    <Button
+        android:layout_width="109dp"
+        android:layout_height="105dp"
+        android:id="@+id/saa"
+        android:background="@drawable/trr"
+        android:onClick="trainingClick"
+        android:layout_alignBottom="@+id/ff"
+        android:layout_alignRight="@+id/la" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Training Point "
+        android:textSize="18dp"
+        android:textColor="#000000"
+        android:layout_marginLeft="4dp"
+        android:id="@+id/textView33"
+        android:layout_alignTop="@+id/textView22"
+        android:layout_alignLeft="@+id/saa" />
+
+    <ImageView
+        android:layout_width="370dp"
+        android:layout_height="200dp"
+        android:id="@+id/imageView"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/women"
+        android:layout_below="@+id/textView22"
+        android:layout_alignParentRight="true" />
+
+
+</RelativeLayout>
